@@ -120,6 +120,4 @@ function center(str, width)
     lpad(rpad(str, length(str) + lrpad), width)
 end
 
-@time display(solve("900000100000003070605080003000408020800090001030107000500010908040500000002000006"))
-
 end
